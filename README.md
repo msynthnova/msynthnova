@@ -1,1 +1,1 @@
-![hi!](./assets/hi.gif)
+![pika!](./pika.gif)
